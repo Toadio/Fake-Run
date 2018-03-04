@@ -1,0 +1,12 @@
+C:\Users\derps\source\repos\Fake Run\Fake Run\bin\Debug\Fake Run.exe.config
+C:\Users\derps\source\repos\Fake Run\Fake Run\bin\Debug\Fake Run.exe
+C:\Users\derps\source\repos\Fake Run\Fake Run\bin\Debug\Fake Run.pdb
+C:\Users\derps\source\repos\Fake Run\Fake Run\bin\Debug\Fake Run.xml
+C:\Users\derps\source\repos\Fake Run\Fake Run\obj\Debug\Fake Run.vbprojResolveAssemblyReference.cache
+C:\Users\derps\source\repos\Fake Run\Fake Run\obj\Debug\Fake_Run.Form1.resources
+C:\Users\derps\source\repos\Fake Run\Fake Run\obj\Debug\Fake_Run.Resources.resources
+C:\Users\derps\source\repos\Fake Run\Fake Run\obj\Debug\Fake Run.vbproj.GenerateResource.Cache
+C:\Users\derps\source\repos\Fake Run\Fake Run\obj\Debug\Fake Run.vbproj.CoreCompileInputs.cache
+C:\Users\derps\source\repos\Fake Run\Fake Run\obj\Debug\Fake Run.exe
+C:\Users\derps\source\repos\Fake Run\Fake Run\obj\Debug\Fake Run.xml
+C:\Users\derps\source\repos\Fake Run\Fake Run\obj\Debug\Fake Run.pdb
